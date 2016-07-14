@@ -1,2 +1,2 @@
 # devenv
-accumulate configuration about my developing environment
+some configurations about my developing environment
